@@ -1,0 +1,17 @@
+attrs==17.4.0
+contextlib2==0.5.5
+coverage==4.5.1
+docopt==0.6.2
+funcsigs==1.0.2
+more-itertools==4.1.0
+nfccli==1.0.0
+pluggy==0.6.0
+py==1.5.3
+pyscard==1.9.6
+pySMART==0.3
+pytest==3.5.0
+pytest-cov==2.5.1
+pytest-dotenv==0.1.0
+python-dotenv==0.8.2
+raven==6.6.0
+six==1.11.0
